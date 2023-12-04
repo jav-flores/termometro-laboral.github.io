@@ -1,0 +1,14 @@
+name: "Termometro-laboral"
+output_dir: "."
+navbar:
+  title: "Termometro laboral"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Estadísticas"
+      href: estadisticas.html
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+
